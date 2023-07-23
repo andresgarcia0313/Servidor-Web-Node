@@ -1,0 +1,4 @@
+{
+  "ext": "js,json,env,html,css,ejs,pug,md,scss,less",
+  "exec": "node server.js"
+}
